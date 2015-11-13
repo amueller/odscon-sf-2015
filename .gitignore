@@ -1,1 +1,3 @@
 data/aclImdb/*
+.ipynb_checkpoints/*
+data/batch*
